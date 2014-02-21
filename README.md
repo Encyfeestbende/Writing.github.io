@@ -11,7 +11,7 @@ Site in orde, nu de rest nog
 <h1>Blogs</h1>
 <a href="http://encyfeestbende.github.io/Hermans_Jana/" title="Hermans Jana" rel="bookmark" sl-processed="1">Hermans Jana</a>
 
-<a href="http://encyclotd.blogspot.be/" rel="bookmark" sl-processed="1">Dierens Tosca</a>
+<a href="http://encyclotd.blogspot.be/" title="Dierens Tosca" rel="bookmark" sl-processed="1">Dierens Tosca</a>
 
 <a href="http://encyfeestbende.github.io/Yana_Van_Roy/" title="Yana Van Roy" rel="bookmark" sl-processed="1">Yana Van Roy</a>
 
