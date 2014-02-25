@@ -15,7 +15,7 @@ Site in orde, nu de rest nog
 
 <a href="http://encyfeestbende.github.io/Yana_Van_Roy/" title="Yana Van Roy" rel="bookmark" sl-processed="1">Yana Van Roy</a>
 
-<a href="http://encyfeestbende.github.io/Lore_De_Schamp/" title="Lore De Schamp" rel="bookmark" sl-processed="1">Lore De Schamp</a>
+<a href="http://lorencyclopedie.blogspot.be/">Lore De Schamp</a>
 
 <a href="http://encyfeestbende.github.io/Siau_Nien_Low/" title="Siau Nien Low" rel="bookmark" sl-processed="1">Siau Nien Low</a>
 
